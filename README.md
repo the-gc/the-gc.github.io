@@ -1,2 +1,2 @@
-# gc.github.io
+# the-gc.github.io
 create soul
